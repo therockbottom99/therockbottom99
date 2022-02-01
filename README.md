@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Veda
 - 👀 I’m interested in Development and AI
-- 🌱 I’m currently learning Web Development
+- 🌱 I’m currently learning Scikit Learn
 - 💞️ I’m looking to collaborate on Web development and ML Projects
 - 📫 How to reach me vedavyaask@gmail.com
 
